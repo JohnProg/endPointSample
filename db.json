@@ -1,12 +1,62 @@
 
 {
-  "posts": [
+  "eventDays": [
     {
       "id": 1,
-      "title": "hello"
+      "day": "20"
+      "dayName": "MIE"
+    },
+    {
+      "id": 1,
+      "day": "21"
+      "dayName": "JUE"
+    },
+    {
+      "id": 1,
+      "day": "22"
+      "dayName": "VIE"
+    },
+    {
+      "id": 1,
+      "day": "23"
+      "dayName": "SAB"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "talks": [
+    {
+      "id": "1",
+      "place": "SALA 1",
+      "time": "13:00",
+      "speaker": "John Doe",
+      "shortDescription": "Autor de un libro"
+    },
+    {
+      "id": "2",
+      "place": "SALA 2",
+      "time": "15:00",
+      "speaker": "Juan",
+      "shortDescription": "Creador de un producto"
+    },
+    {
+      "id": "3",
+      "place": "SALA 4",
+      "time": "10:00",
+      "speaker": "Martin",
+      "shortDescription": "Creador de un producto"
+    },
+    {
+      "id": "4",
+      "place": "SALA 20",
+      "time": "10:00",
+      "speaker": "Martin de la fuente Caceres",
+      "shortDescription": "CTO Raqum"
+    },
+    {
+      "id": "5",
+      "place": "SALA 200",
+      "time": "9:00",
+      "speaker": "Fernando Lopez Villavicencio",
+      "shortDescription": "CTO Marqa"
+    }
+  ]
 }
