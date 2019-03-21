@@ -28,35 +28,40 @@
       "place": "SALA 1",
       "time": "13:00",
       "speaker": "John Doe",
-      "shortDescription": "Autor de un libro"
+      "shortDescription": "Autor de un libro",
+      "eventDayId": "1"
     },
     {
       "id": "2",
       "place": "SALA 2",
       "time": "15:00",
       "speaker": "Juan",
-      "shortDescription": "Creador de un producto"
+      "shortDescription": "Creador de un producto",
+      "eventDayId": "1"
     },
     {
       "id": "3",
       "place": "SALA 4",
       "time": "10:00",
       "speaker": "Martin",
-      "shortDescription": "Creador de un producto"
+      "shortDescription": "Creador de un producto",
+      "eventDayId": "1"
     },
     {
       "id": "4",
       "place": "SALA 20",
       "time": "10:00",
       "speaker": "Martin de la fuente Caceres",
-      "shortDescription": "CTO Raqum"
+      "shortDescription": "CTO Raqum",
+      "eventDayId": "1"
     },
     {
       "id": "5",
       "place": "SALA 200",
       "time": "9:00",
       "speaker": "Fernando Lopez Villavicencio",
-      "shortDescription": "CTO Marqa"
+      "shortDescription": "CTO Marqa",
+      "eventDayId": "1"
     }
   ]
 }
